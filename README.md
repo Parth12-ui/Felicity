@@ -2,7 +2,7 @@
 
 Frontend for **Felicity**, a college-fest event platform with participant, organizer and admin portals: event discovery, registration and QR tickets, team registration, merchandise orders with payment-proof review, real-time discussion forums, and feedback.
 
-Built with React 19, Vite and React Router. The visual design shares its palette with Passing Polygons: GitHub-dark surfaces, a blue accent and football-pitch accents.
+Built with React 19, Vite and React Router. The "Festival Night" design uses a deep ink background, a marigold-to-magenta stage-light gradient, string-light and ticket-stub motifs, and smooth, reduced-motion-aware animation.
 
 - **Live:** https://dass-a1-green.vercel.app
 - **Backend:** Express + MongoDB on Render, in [event-management-dashboard](https://github.com/Parth12-ui/event-management-dashboard/tree/main/backend)
